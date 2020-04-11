@@ -1,11 +1,13 @@
 
 @media only screen and (min-width : 320px) and (max-width : 479px) {
 
-.slider{
-		height: 100vh;
+	.slider{
+		margin-top: 50px;
+		height: 200vh;
 	}
+
 	.img-fluid{
-		height: 100vh;
+		height: 250vh;
 	}
 	.project{
 		height: 150px;
