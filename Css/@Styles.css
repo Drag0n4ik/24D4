@@ -1,15 +1,17 @@
 
 @media only screen and (min-width : 320px) and (max-width : 479px) {
+	
 	.info{
-		height: 230vh;
+		width: 100%;
+		height: 1300px;
 	}
 	.slider{
 		margin-top: 30px;
-		height: 200vh;
+		height: 1150px;
 	}
 
 	.img-fluid{
-		height: 220vh;
+		height: 1150px;
 	}
 	.project{
 		height: 150px;
@@ -31,15 +33,17 @@
 
 
 @media only screen and (min-width : 480px) and (max-width : 639px) {
+	
 	.info{
-		height: 230vh;
+		width: 100%;
+		height: 800px;
 	}
 	.slider{
 		margin-top: 30px;
-		height: 200vh;
+		height: 550px;
 	}
 	.img-fluid{
-		height: 90vh;
+		height: 550px;
 	}
 	.project{
 		height: 150px;
@@ -59,12 +63,15 @@
 }
 
 @media only screen and (min-width : 640px) and (max-width : 767px) {
-
+	.info{
+		width: 100%;
+	}
 	.slider{
-		height: 90vh;
+
+		height: 450px;
 	}
 	.img-fluid{
-		height: 90vh;
+		height: 450px;
 	}
 	.project{
 		height: 200px;
@@ -79,11 +86,12 @@
 
 
 @media only screen and (min-width : 768px) and (max-width : 1023px) {
+		
 	.slider{
-		height: 90vh;
+		height: 480px;
 	}
 	.img-fluid{
-		height: 90vh;
+		height: 480px;
 	}
 	.project{
 		height: 200px;
@@ -97,11 +105,12 @@
 
 
 @media only screen and (min-width : 1024px) and (max-width : 1199px) {
+	
 	.slider{
-		height: 90vh;
+		height: 650px;
 	}
 	.img-fluid{
-		height: 90vh;
+		height: 650px;
 	}
 	.project{
 		height: 300px;
@@ -117,10 +126,10 @@
 @media only screen and (min-width : 1200px) and (max-width : 1529px) {
 
 	.slider{
-		height: 90vh;
+		height: 720px;
 	}
 	.img-fluid{
-		height: 90vh;
+		height: 720px;
 	}
 	.minProject {
 	 height: 40%;
@@ -135,10 +144,10 @@
 @media only screen and (min-width : 1530px) and (max-width : 1919px) {
 	
 	.slider{
-		height: 90vh;
+		height: 750px;
 	}
 	.img-fluid{
-		height: 90vh;
+		height: 750px;
 	}
 	.minProject {
 	 height: 50%;
@@ -150,10 +159,10 @@
 }
 @media only screen and (min-width : 1920px) {
 	.slider{
-		height: 70vh;
+		height: 780px;
 	}
 	.img-fluid{
-		height: 70vh;
+		height: 780px;
 	}
 	.minProject {
 	 height: 50%;

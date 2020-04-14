@@ -16,8 +16,7 @@
   }
 
 .container{
-  display: block;
-  margin: auto;
+
 }
 
 .shapka{
@@ -32,8 +31,8 @@
   height: 100vh;
 }
 .info{
-	width: 100%;
-	height: 200vh;
+	width: 80%;
+	height: 1000px;
 	position: relative;
 	margin: auto;
 	background-color: white;
@@ -42,7 +41,7 @@
 
 .podval{
 	width: 100%;
-	height: 20vh;
+	height: 200px;
 	background-color: Gray;
   z-index: 6;
   position: relative;
@@ -69,7 +68,7 @@
       position: relative;
       overflow: hidden;
       width: 80%;
-      height: 80vh;
+      height: 600px;
       margin-left: auto;
       margin-right: auto;
       z-index: 4;
@@ -136,7 +135,7 @@
 
     .img-fluid {
       width: 100vw;
-      height: 80vh;
+      height: 600px;
       background: #f7f5f5;
       display: inline-block;
       
@@ -160,6 +159,7 @@
   transform: translateY(-20px);
     }
     */
+  
     .MenuMinProject{
     width: 100%;
     height: 500px;
