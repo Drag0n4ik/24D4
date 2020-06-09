@@ -3,18 +3,19 @@
 	padding: 0;
 	color: white;
 	list-style-type: none;
-	transition: 0.5	s linear;
+	transition: 0.5s linear;
 	font-family: 'PT Sans Narrow', sans-serif;
 }
 a{
 	text-decoration: none;
 
+
 }
 a:visited {
-    color: black; /* Цвет посещенных ссылок */
+    color: white; /* Цвет посещенных ссылок */
    }
 a:active {
-    color: black; /* Цвет активных ссылок */
+    color: white; /* Цвет активных ссылок */
 }
 .container{
 	display: block;
@@ -174,6 +175,8 @@ content: "";
 transition: width 1s;
 
 }
+
+
 
 .Menu{
 	display: block;
